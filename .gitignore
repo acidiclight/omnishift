@@ -1,0 +1,6 @@
+# Visual Studio user preferences.
+.vs/
+
+# Binaries.
+bin/
+obj/
